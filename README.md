@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Matheus</h1>
 
-<!--
-**Matheus2563/Matheus2563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Apaixonado por <strong>programação</strong>, <strong>matemática</strong> e <strong>xadrez</strong> ♟️ <br>
+  Explorando o mundo do <strong>C</strong> e <strong>C++</strong> com projetos criativos e desafiadores 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que eu uso
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+- 💻 Programo principalmente em **C** e **C++**
+- ♟️ Curto resolver **problemas de lógica** e jogar xadrez
+- 📐 Fascinado por **matemática** aplicada
+- 🔍 Sempre explorando e aprendendo algo novo
+
+---
+
+## 📸 Um pouco do meu mundo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding gif"/>
+  &nbsp;
+
+---
+
+## 📫 Vamos conversar?
+
+Se quiser trocar ideia sobre programação, matemática ou até jogar uma partidinha de xadrez, me chama por aqui mesmo! 😄
+
+---
+
+<p align="center">
+  <em>“A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.”</em> <br> – Albert Einstein
+</p>
+
+
