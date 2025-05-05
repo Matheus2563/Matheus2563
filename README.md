@@ -40,7 +40,7 @@ Se quiser trocar ideia sobre programação, matemática ou até jogar uma partid
 
 ---
 
-## Onde me encontrar?
+## 📧 Onde me encontrar?
 
 mb1699114@gmail.com
 
