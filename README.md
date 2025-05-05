@@ -21,7 +21,7 @@
 
 - 💻 Programo principalmente em **C** e **C++**
 - ♟️ Curto resolver **problemas de lógica** e jogar xadrez
-- 📐 Fascinado por **matemática** aplicada
+- 📐 Fascinado por **matemática**
 - 🔍 Sempre explorando e aprendendo algo novo
 
 ---
@@ -37,6 +37,12 @@
 ## 📫 Vamos conversar?
 
 Se quiser trocar ideia sobre programação, matemática ou até jogar uma partidinha de xadrez, me chama por aqui mesmo! 😄
+
+---
+
+## Onde me encontrar?
+
+mb1699114@gmail.com
 
 ---
 
